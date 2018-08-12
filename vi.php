@@ -137,10 +137,26 @@
                     </li>
                     <li class="clearfix">
                         <div class="text">
-                            Địa chỉ:
+                            Địa chỉ nhà:
                         </div>
                         <div class="value">
-                            Số 2 - ngách 96 - ngõ Lan Bá - phường Trung Phụng - quận Đống Đa - Hà Nội - Việt Nam.
+                            Số 2, Ngách 96, Ngõ Lan Bá, Phố Chợ Khâm Thiên, Phường Trung Phụng, Quận Đống Đa, Hà Nội, Việt Nam.
+                        </div>
+                    </li>
+                    <li class="clearfix">
+                        <div class="text">
+                            Địa chỉ hiện tại 1:
+                        </div>
+                        <div class="value">
+                            Phòng 3, Lầu 1, Số 122/8, Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Tp. Hồ Chí Minh, Việt Nam.
+                        </div>
+                    </li>
+                    <li class="clearfix">
+                        <div class="text">
+                            Địa chỉ hiện tại 2:
+                        </div>
+                        <div class="value">
+                            Số 207, Đường Võ Thị Sáu, Phường Tân Định, Quận 3, Tp. Hồ Chí Minh, Việt Nam.
                         </div>
                     </li>
                     <li class="clearfix">

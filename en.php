@@ -137,10 +137,26 @@
                     </li>
                     <li class="clearfix">
                         <div class="text">
-                            Address:
+                            Home Address:
                         </div>
                         <div class="value">
-                            No 2/96, Lan Ba Alley, Trung Phung Ward, Dong Da District, Hanoi, Vietnam.
+                            No. 2/96, Lan Ba Alley, Kham Thien Market Street, Trung Phung Ward, Dong Da District, Hanoi, Vietnam.
+                        </div>
+                    </li>
+                    <li class="clearfix">
+                        <div class="text">
+                            Current Address 1:
+                        </div>
+                        <div class="value">
+                            Room 3, 1st Floor, No. 122/8,  Pho Quang Street, Ward 9, Phu Nhuan District, Ho Chi Minh City, Vietnam.
+                        </div>
+                    </li>
+                    <li class="clearfix">
+                        <div class="text">
+                            Current Address 2:
+                        </div>
+                        <div class="value">
+                            No. 207, Vo Thi Sau Street, Tan Dinh Ward, District 3, Ho Chi Minh City, Vietnam.
                         </div>
                     </li>
                     <li class="clearfix">
