@@ -180,7 +180,7 @@
                             Điện thoại:
                         </div>
                         <div class="value">
-                            <em>Di động:</em> (+84) 975 783 771 / (+84) 96 353 9871.<br>
+                            <em>Di động:</em> (+84) 975 783 771.<br>
                             <em>Nhà riêng:</em> (+84) 43 5182 840.
                         </div>
                     </li>

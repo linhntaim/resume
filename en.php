@@ -180,7 +180,7 @@
                             Phone:
                         </div>
                         <div class="value">
-                            <em>Mobile:</em> (+84) 975 783 771 / (+84) 96 353 9871.<br>
+                            <em>Mobile:</em> (+84) 975 783 771.<br>
                             <em>Home:</em> (+84) 43 5182 840.
                         </div>
                     </li>
