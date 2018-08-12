@@ -195,12 +195,16 @@
                             <li>Basic/advanced with C/C++.</li>
                             <li>Desktop/mobile with C++, C#, Java.</li>
                             <li>Server-side with C#/VisualBasic/ASP.NET.</li>
-                            <li>Server-side with PHP, using frameworks: Laravel, Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
-                            <li>Client-side with HTML(5), CSS(3), Javascript, using frameworks: Bootstrap, jQuery, Sencha Ext JS, AngularJS and Font libraries.</li>
+                            <li>Server-side with PHP, using frameworks: Laravel (+Passport+Echo+Mix), Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
+                            <li>Client-side with HTML(5), CSS(3), Javascript, using frameworks: Bootstrap, jQuery, Sencha Ext JS, AngularJS, Angular, Vue.js, React, Prerender and Font libraries.</li>
                             <li>Flash/AIR with ActionScript3.</li>
+                            <li>Real-time messaging with Socket.IO</li>
                             <li>Prototyping/Visualizing with Processing.</li>
                             <li>Social APIs: Facebook, Instagram, Google.</li>
                             <li>Analysis &amp; design: OOP, Design Pattern, UML.</li>
+                            <li>Scripting tools for automation testing: Selenium, CasperJS.</li>
+                            <li>Mailing APIs with Mailgun, Mailchimp.</li>
+                            <li>Single Sign-on with Cookie.</li>
                         </ul>
                     </li>
                     <li>
@@ -228,12 +232,19 @@
                         </ul>
                     </li>
                     <li>
+                        <h3>Cloud Computing Services:</h3>
+                        <ul>
+                            <li>Amazon Web Services (AWS).</li>
+                            <li>Google Cloud Platforms (GCP).</li>
+                        </ul>
+                    </li>
+                    <li>
                         <h3>Tools for Programming:</h3>
                         <ul>
-                            <li>Microsoft Visual Studio.</li>
+                            <li>Microsoft Visual Studio/Microsoft Visual Code.</li>
                             <li>JetBrains PhpStorm, Netbeans, Eclipse, Notepad++, console/terminal.</li>
                             <li>Adobe Animate (formerly Adobe Flash Professional), Adobe Flash Builder, Brackets.</li>
-                            <li>Git, JIRA, Trello, Jenkins.</li>
+                            <li>Git(hub), JIRA, Trello, Jenkins.</li>
                         </ul>
                     </li>
                     <li>
@@ -264,7 +275,9 @@
                         <h3>Others:</h3>
                         <ul>
                             <li>I can work independently or co-operate with team.</li>
+                            <li>I can lead a small team (3-5 members) in developing projects.</li>
                             <li>I can make schedules, summaries, reports, documents and presentations.</li>
+                            <li>I can easily adapt to any software development process: Agile/Scrum, Waterfall, Spiral.</li>
                         </ul>
                     </li>
                 </ul>
@@ -278,6 +291,18 @@
                     <li>
                         <div class="h3"><em>As an Employee</em></div>
                         <ul>
+                            <li>
+                                <h3>Antoree International Pte. Ltd. (Singapore) | 02.2017 - prensent</h3>
+                                <ul>
+                                    <li>
+                                        <h4>System (Web & Mobile Platform) for managing company's end-users and customers' operations.</h4>
+                                        <ul>
+                                            <li>Position: Technical Lead.</li>
+                                            <li>Experience/Skills: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp.</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
                             <li>
                                 <h3>MITEC Joint Stock Company (Vietnam) | 2012 - 2015</h3>
                                 <ul>
@@ -403,13 +428,13 @@
                                 </ul>
                             </li>
                             <li>
-                                <h3>Antoree International Pte. Ltd. (Singapore) | 09-12.2015</h3>
+                                <h3>Antoree International Pte. Ltd. (Singapore) | 09-11.2015</h3>
                                 <ul>
                                     <li>
                                         <h4>Learning Management System (LMS) web application.</h4>
                                         <ul>
                                             <li>Position: Team leader, PHP developer.</li>
-                                            <li>Experience/Skills: PHP/Laravel, MySQL, Real-time messaging, HTML5, CSS3, Javascript, jQuery, Bootstrap.</li>
+                                            <li>Experience/Skills: Google Cloud Platform, PHP/Laravel, MySQL, Real-time messaging, HTML5, CSS3, Javascript, jQuery, Bootstrap.</li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -517,11 +542,18 @@
             <div class="content">
                 <ul>
                     <li>
-                        Books, music, history, law, human, jogging, cycling, running, blog.
+                        Books, music, history, law, human, jogging, cycling, running, blog, basketball.
                     </li>
                     <li>
                         Volunteer/Travel:
                         <ul>
+                            <li>
+                                Long trip by bicycle | 4-5.2017
+                                <ul>
+                                    <li>Through two provinces in Vietnam: Khanh Hoa and Phu Yen.</li>
+                                    <li>Live as a local civilian wandering anywhere and still work remotely for the job at company.</li>
+                                </ul>
+                            </li>
                             <li>
                                 Long trip by bicycle | 2-3.2016
                                 <ul>

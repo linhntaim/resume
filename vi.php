@@ -196,11 +196,15 @@
                             <li>Lập trình ứng dụng trên máy tính/di động với C++, C#, Java.</li>
                             <li>Lập trình phía server với C#/VisualBasic/ASP.NET.</li>
                             <li>Lập trình phía server với PHP, có thể sử dụng các framework: Laravel, Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
-                            <li>Lập trình phía client HTML(5), CSS(3), Javascript, có thể sử dụng các framework: Bootstrap, jQuery, Sencha Ext JS, AngularJS và các thư viện Font.</li>
+                            <li>Lập trình phía client HTML(5), CSS(3), Javascript, có thể sử dụng các framework: Bootstrap, jQuery, Sencha Ext JS, AngularJS, Angular, Vue.js, React và các thư viện Font.</li>
                             <li>Lập trình Flash/AIR với ActionScript3.</li>
+                            <li>Lập trình gửi thông điệp thời gian thực với Socket.IO</li>
                             <li>Lập trình mô phỏng với Processing.</li>
                             <li>Lập trình có sử dụng các API mạng xã hội: Facebook, Instagram, Google.</li>
                             <li>Lập trình có sử dụng: OOP, Design Pattern; phân tích &amp thiết kế sử dụng UML.</li>
+                            <li>Viết mã kiểm tra tự động sử dụng: Selenium, CasperJS.</li>
+                            <li>Xử lý gửi thư điện tử với Mailgun, Mailchimp.</li>
+                            <li>Xử lý đăng nhâp một lần với Cookie.</li>
                         </ul>
                     </li>
                     <li>
@@ -225,6 +229,13 @@
                             <li>Microsoft Windows, Microsoft Windows Server.</li>
                             <li>Ubuntu, CentOS, Fedora.</li>
                             <li>Microsoft Windows Phone/Mobile, Android.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h3>Dịch vụ tính toán đám mây:</h3>
+                        <ul>
+                            <li>Amazon Web Services (AWS).</li>
+                            <li>Google Cloud Platforms (GCP).</li>
                         </ul>
                     </li>
                     <li>
@@ -264,7 +275,9 @@
                         <h3>Ngoài ra:</h3>
                         <ul>
                             <li>Có thể làm việc độc lập hoặc theo nhóm.</li>
+                            <li>Có thể lãnh đạo một nhóm nhỏ (3-5 thành viên) trong việc phát triển dự án.</li>
                             <li>Có khả năng lập lịch làm việc, tổng hợp nội dung, báo cáo, viết tài liệu và làm thuyết trình.</li>
+                            <li>Có thể thích ứng với bất cứ mô hình phát triển phần mềm nào như: Agile/Scrum, Waterfall, Spiral.</li>
                         </ul>
                     </li>
                 </ul>
@@ -278,6 +291,18 @@
                     <li>
                         <div class="h3"><em>Với tư cách Nhân viên công ty</em></div>
                         <ul>
+                            <li>
+                                <h3>Công ty Giáo dục và Đào tạo Antoree International Pte. Ltd. (Singapore) | 02.2017 - prensent</h3>
+                                <ul>
+                                    <li>
+                                        <h4>Hệ thống (nền tảng Web và Di động) để quản lý hoạt động của các thành viên cũng như khách hàng của công ty.</h4>
+                                        <ul>
+                                            <li>Vị trí: Technical Lead.</li>
+                                            <li>Kinh nghiệm/Kỹ năng: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp.</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
                             <li>
                                 <h3>Công ty Cổ phần Ứng dụng Khoa học và Công nghệ MITEC (Việt Nam) | 2012 - 2015</h3>
                                 <ul>
@@ -403,13 +428,13 @@
                                 </ul>
                             </li>
                             <li>
-                                <h3>Trung tâm tiếng Anh Antoree (Singapore) | 09-12.2015</h3>
+                                <h3>Công ty Giáo dục và Đào tạo Antoree International Pte. Ltd. (Singapore) | 09-12.2015</h3>
                                 <ul>
                                     <li>
                                         <h4>Phần mềm trực tuyến (web-based) LMS – Learning Management System – hỗ trợ quản lý đào tạo.</h4>
                                         <ul>
                                             <li>Vị trí: Team leader, PHP developer.</li>
-                                            <li>Kinh nghiệm/Kỹ năng: PHP/Laravel, MySQL, Real-time messaging, HTML5, CSS3, Javascript, jQuery, Bootstrap.</li>
+                                            <li>Kinh nghiệm/Kỹ năng: Google Cloud Platform, PHP/Laravel, MySQL, Real-time messaging, HTML5, CSS3, Javascript, jQuery, Bootstrap.</li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -517,11 +542,18 @@
             <div class="content">
                 <ul>
                     <li>
-                        Đọc sách, Âm nhạc, Lịch sử, Luật pháp, Con người, Đi bộ, Đạp xe, Chạy bộ, Viết blog.
+                        Đọc sách, Âm nhạc, Lịch sử, Luật pháp, Con người, Đi bộ, Đạp xe, Chạy bộ, Viết blog, Bóng rổ.
                     </li>
                     <li>
                         Hoạt động Tình nguyện/Du lịch:
                         <ul>
+                            <li>
+                                Hành trình xe đạp (chặng dài) | 4-5.2017
+                                <ul>
+                                    <li>Xuyên suốt địa phận 2 tỉnh ở Việt Nam: Khánh Hòa và Phú Yên.</li>
+                                    <li>Sống như người dân địa phương lang thang đây đó nhưng vẫn làm việc ở công ty từ xa.</li>
+                                </ul>
+                            </li>
                             <li>
                                 Hành trình xe đạp (chặng dài) | 2-3.2016
                                 <ul>
