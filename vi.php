@@ -4,6 +4,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <title>Nguyen Tuan Linh's Resume</title>
 	<link rel="shortcut icon" href="<?php echo url('favicon.ico'); ?>" type="image/x-icon">
 	<link rel="icon" href="<?php echo url('favicon.ico'); ?>" type="image/x-icon">
@@ -209,18 +226,18 @@
                         <h3>Khả năng lập trình:</h3>
                         <ul>
                             <li>Lập trình cơ bản/chuyên sâu với C/C++.</li>
-                            <li>Lập trình ứng dụng trên máy tính/di động với C++, C#, Java.</li>
+                            <li>Lập trình ứng dụng trên máy tính/di động với C++, C#, Java, Swift, Kotlin.</li>
                             <li>Lập trình phía server với C#/VisualBasic/ASP.NET.</li>
-                            <li>Lập trình phía server với PHP, có thể sử dụng các framework: Laravel, Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
+                            <li>Lập trình phía server với PHP, có thể sử dụng các framework: Laravel (+Passport+Echo+Mix), Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
                             <li>Lập trình phía client HTML(5), CSS(3), Javascript, có thể sử dụng các framework: Bootstrap, jQuery, Sencha Ext JS, AngularJS, Angular, Vue.js, React và các thư viện Font.</li>
                             <li>Lập trình Flash/AIR với ActionScript3.</li>
-                            <li>Lập trình gửi thông điệp thời gian thực với Socket.IO</li>
+                            <li>Lập trình gửi thông điệp thời gian thực/Lập trình gửi thông báo với Socket.IO, Realtime.co, Firebase, APNs.</li>
                             <li>Lập trình mô phỏng với Processing.</li>
                             <li>Lập trình có sử dụng các API mạng xã hội: Facebook, Instagram, Google.</li>
                             <li>Lập trình có sử dụng: OOP, Design Pattern; phân tích &amp thiết kế sử dụng UML.</li>
                             <li>Viết mã kiểm tra tự động sử dụng: Selenium, CasperJS.</li>
-                            <li>Xử lý gửi thư điện tử với Mailgun, Mailchimp.</li>
-                            <li>Xử lý đăng nhâp một lần với Cookie.</li>
+                            <li>Xử lý gửi thư điện tử với Mailgun, MailChimp.</li>
+                            <li>Xử lý đăng nhâp một lần sử dụng Cookie.</li>
                         </ul>
                     </li>
                     <li>
@@ -229,6 +246,7 @@
                             <li>Microsoft SQL Server.</li>
                             <li>MySQL/MariaDB.</li>
                             <li>Oracle Database.</li>
+                            <li>Redis.</li>
                         </ul>
                     </li>
                     <li>
@@ -244,13 +262,15 @@
                         <ul>
                             <li>Microsoft Windows, Microsoft Windows Server.</li>
                             <li>Ubuntu, CentOS, Fedora.</li>
-                            <li>Microsoft Windows Phone/Mobile, Android.</li>
+                            <li>macOS.</li>
+                            <li>Microsoft Windows Phone/Mobile, iOS, Android.</li>
                         </ul>
                     </li>
                     <li>
                         <h3>Dịch vụ tính toán đám mây:</h3>
                         <ul>
                             <li>Amazon Web Services (AWS).</li>
+                            <li>Google Cloud Platforms (GCP).</li>
                             <li>Google Cloud Platforms (GCP).</li>
                         </ul>
                     </li>
@@ -259,6 +279,7 @@
                         <ul>
                             <li>Microsoft Visual Studio.</li>
                             <li>JetBrains PhpStorm, Netbeans, Eclipse, Notepad++, console/terminal.</li>
+                            <li>Xcode, Android Studio.</li>
                             <li>Adobe Animate (formerly Adobe Flash Professional), Adobe Flash Builder, Brackets.</li>
                             <li>Git, JIRA, Trello, Jenkins.</li>
                         </ul>
@@ -268,6 +289,7 @@
                         <ul>
                             <li>Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Warehouse Builder (OWB).</li>
                             <li>Serena Products.</li>
+                            <li>Microsoft SharePoint.</li>
                         </ul>
                     </li>
                     <li>
@@ -308,13 +330,13 @@
                         <div class="h3"><em>Với tư cách Nhân viên công ty</em></div>
                         <ul>
                             <li>
-                                <h3>Công ty Giáo dục và Đào tạo Antoree International Pte. Ltd. (Singapore) | 02.2017 - prensent</h3>
+                                <h3>Công ty Giáo dục và Đào tạo Antoree International Pte. Ltd. (Singapore) | 02.2017 - 10.2018</h3>
                                 <ul>
                                     <li>
                                         <h4>Hệ thống (nền tảng Web và Di động) để quản lý hoạt động của các thành viên cũng như khách hàng của công ty.</h4>
                                         <ul>
                                             <li>Vị trí: Technical Lead.</li>
-                                            <li>Kinh nghiệm/Kỹ năng: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp.</li>
+                                            <li>Kinh nghiệm/Kỹ năng: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Redis, Selenium, HTML, CSS, Javascript, Mailgun, MailChimp; Lập trình ứng dụng di động trên nền tảng iOS platform (Swift) và Android (Kotlin).</li>
                                         </ul>
                                     </li>
                                 </ul>

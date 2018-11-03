@@ -4,6 +4,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <title>Nguyen Tuan Linh's Resume</title>
 	<link rel="shortcut icon" href="<?php echo url('favicon.ico'); ?>" type="image/x-icon">
 	<link rel="icon" href="<?php echo url('favicon.ico'); ?>" type="image/x-icon">
@@ -209,18 +226,18 @@
                         <h3>Programming:</h3>
                         <ul>
                             <li>Basic/advanced with C/C++.</li>
-                            <li>Desktop/mobile with C++, C#, Java.</li>
+                            <li>Desktop/mobile with C++, C#, Java, Swift, Kotlin.</li>
                             <li>Server-side with C#/VisualBasic/ASP.NET.</li>
                             <li>Server-side with PHP, using frameworks: Laravel (+Passport+Echo+Mix), Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
                             <li>Client-side with HTML(5), CSS(3), Javascript, using frameworks: Bootstrap, jQuery, Sencha Ext JS, AngularJS, Angular, Vue.js, React, Prerender and Font libraries.</li>
                             <li>Flash/AIR with ActionScript3.</li>
-                            <li>Real-time messaging with Socket.IO</li>
+                            <li>Real-time messaging/Notification with Socket.IO, Realtime.co, Firebase, APNs.</li>
                             <li>Prototyping/Visualizing with Processing.</li>
                             <li>Social APIs: Facebook, Instagram, Google.</li>
                             <li>Analysis &amp; design: OOP, Design Pattern, UML.</li>
                             <li>Scripting tools for automation testing: Selenium, CasperJS.</li>
                             <li>Mailing APIs with Mailgun, Mailchimp.</li>
-                            <li>Single Sign-on with Cookie.</li>
+                            <li>Single Sign-on using Cookie.</li>
                         </ul>
                     </li>
                     <li>
@@ -229,6 +246,7 @@
                             <li>Microsoft SQL Server.</li>
                             <li>MySQL/MariaDB.</li>
                             <li>Oracle Database.</li>
+                            <li>Redis.</li>
                         </ul>
                     </li>
                     <li>
@@ -244,7 +262,8 @@
                         <ul>
                             <li>Microsoft Windows, Microsoft Windows Server.</li>
                             <li>Ubuntu, CentOS, Fedora.</li>
-                            <li>Microsoft Windows Phone/Mobile, Android.</li>
+                            <li>macOS.</li>
+                            <li>Microsoft Windows Phone/Mobile, iOS, Android.</li>
                         </ul>
                     </li>
                     <li>
@@ -259,6 +278,7 @@
                         <ul>
                             <li>Microsoft Visual Studio/Microsoft Visual Code.</li>
                             <li>JetBrains PhpStorm, Netbeans, Eclipse, Notepad++, console/terminal.</li>
+                            <li>Xcode, Android Studio.</li>
                             <li>Adobe Animate (formerly Adobe Flash Professional), Adobe Flash Builder, Brackets.</li>
                             <li>Git(hub), JIRA, Trello, Jenkins.</li>
                         </ul>
@@ -268,6 +288,7 @@
                         <ul>
                             <li>Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Warehouse Builder (OWB).</li>
                             <li>Serena Products.</li>
+                            <li>Microsoft SharePoint.</li>
                         </ul>
                     </li>
                     <li>
@@ -308,13 +329,13 @@
                         <div class="h3"><em>As an Employee</em></div>
                         <ul>
                             <li>
-                                <h3>Antoree International Pte. Ltd. (Singapore) | 02.2017 - prensent</h3>
+                                <h3>Antoree International Pte. Ltd. (Singapore) | 02.2017 - 10.2018</h3>
                                 <ul>
                                     <li>
                                         <h4>System (Web & Mobile Platform) for managing company's end-users and customers' operations.</h4>
                                         <ul>
                                             <li>Position: Technical Lead.</li>
-                                            <li>Experience/Skills: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp.</li>
+                                            <li>Experience/Skills: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp; Mobile application development on iOS platform (Swift) and Android platform (Kotlin).</li>
                                         </ul>
                                     </li>
                                 </ul>
