@@ -254,7 +254,7 @@
                         <ul>
                             <li>Internet Information Services (IIS).</li>
                             <li>Apache.</li>
-                            <li>Nginx.</li>
+                            <li>NGINX.</li>
                         </ul>
                     </li>
                     <li>
@@ -280,7 +280,7 @@
                             <li>JetBrains PhpStorm, Netbeans, Eclipse, Notepad++, console/terminal.</li>
                             <li>Xcode, Android Studio.</li>
                             <li>Adobe Animate (formerly Adobe Flash Professional), Adobe Flash Builder, Brackets.</li>
-                            <li>Git(hub), JIRA, Trello, Jenkins.</li>
+                            <li>Git(hub/lab), JIRA, Trello, Jenkins.</li>
                         </ul>
                     </li>
                     <li>
