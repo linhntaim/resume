@@ -588,14 +588,14 @@
                                 Long trip by bicycle | 4-5.2017
                                 <ul>
                                     <li>Through two provinces in Vietnam: Khanh Hoa and Phu Yen.</li>
-                                    <li>Live as a local civilian wandering anywhere and still work remotely for the job at company.</li>
+                                    <li>Lived as a local civilian wandering anywhere and still work remotely for the job at company.</li>
                                 </ul>
                             </li>
                             <li>
                                 Long trip by bicycle | 2-3.2016
                                 <ul>
                                     <li>Through three coutries in Indochina: Vietnam, Laos, Cambodia.</li>
-                                    <li>The route starts from Hanoi City, ends at Mũi Cà Mau and Ho Chi Minh City.</li>
+                                    <li>The route started from Hanoi City, ended at Mũi Cà Mau and Ho Chi Minh City.</li>
                                 </ul>
                             </li>
                             <li>
