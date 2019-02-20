@@ -671,7 +671,7 @@
                             <a target="_blank" href="https://soundcloud.com/linhntaim">
                                 <i class="fa fa-soundcloud"></i> SoundCloud
                             </a>
-                        </li>>
+                        </li>
                         <li>
                             <a target="_blank" href="https://vn.linkedin.com/in/linhntaim">
                                 <i class="fa fa-linkedin"></i> LinkedIn
