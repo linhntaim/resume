@@ -154,7 +154,7 @@
                     </li>
                     <li class="clearfix">
                         <div class="text">
-                            Địa chỉ nhà:
+                            Địa chỉ nhà riêng:
                         </div>
                         <div class="value">
                             Số 2, Ngách 96, Ngõ Lan Bá, Phố Chợ Khâm Thiên, Phường Trung Phụng, Quận Đống Đa, Hà Nội, Việt Nam.
@@ -335,7 +335,7 @@
                                     <li>
                                         <h4>Hệ thống (nền tảng Web và Di động) để quản lý hoạt động của các thành viên cũng như khách hàng của công ty.</h4>
                                         <ul>
-                                            <li>Vị trí: Technical Lead.</li>
+                                            <li>Vị trí: Technical Lead, Full-stack developer.</li>
                                             <li>Kinh nghiệm/Kỹ năng: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, nginx, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Redis, Selenium, HTML, CSS, Javascript, Mailgun, MailChimp; Lập trình ứng dụng di động trên nền tảng iOS (Swift) và Android (Kotlin).</li>
                                         </ul>
                                     </li>
@@ -586,7 +586,7 @@
                         Hoạt động Tình nguyện/Du lịch:
                         <ul>
                             <li>
-                                Hành trình xe đạp (chặng dài) | 4-5.2017
+                                Hành trình xe đạp (chặng dài) | 4-5.2018
                                 <ul>
                                     <li>Xuyên suốt địa phận 2 tỉnh ở Việt Nam: Khánh Hòa và Phú Yên.</li>
                                     <li>Sống như người dân địa phương lang thang đây đó nhưng vẫn làm việc ở công ty từ xa.</li>
@@ -639,62 +639,52 @@
                 <div class="col-xs-12 col-sm-10">
                     <ul class="list-inline text-center">
                         <li>
-                            <a target="_blank" href="http://linhntaim.com/">
+                            <a target="_blank" href="https://linhntaim.com/">
                                 <i class="fa fa-star"></i> Website
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://www.facebook.com/linhntaim">
+                            <a target="_blank" href="https://www.facebook.com/linhntaim">
                                 <i class="fa fa-facebook-official"></i> Facebook
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://twitter.com/linhntaim">
+                            <a target="_blank" href="https://twitter.com/linhntaim">
                                 <i class="fa fa-twitter"></i> Twitter
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://tumblr.linhntaim.com/">
+                            <a target="_blank" href="https://tumblr.linhntaim.com/">
                                 <i class="fa fa-tumblr"></i> Tumblr
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://instagram.com/linhntaim">
+                            <a target="_blank" href="https://instagram.com/linhntaim">
                                 <i class="fa fa-instagram"></i> Instagram
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://linhntaim.wordpress.com/">
+                            <a target="_blank" href="https://linhntaim.wordpress.com/">
                                 <i class="fa fa-wordpress"></i> Wordpress
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://soundcloud.com/linhntaim">
+                            <a target="_blank" href="https://soundcloud.com/linhntaim">
                                 <i class="fa fa-soundcloud"></i> SoundCloud
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://www.flickr.com/photos/linhntaim">
-                                <i class="fa fa-flickr"></i> Flickr
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="http://vn.linkedin.com/in/linhntaim">
+                            <a target="_blank" href="https://vn.linkedin.com/in/linhntaim">
                                 <i class="fa fa-linkedin"></i> LinkedIn
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://plus.google.com/+NguyenTuanLinh1710/about">
-                                <i class="fa fa-google-plus"></i> Google+
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="http://github.com/linhntaim">
+                            <a target="_blank" href="https://github.com/linhntaim">
                                 <i class="fa fa-github"></i> Github
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://en.gravatar.com/linhntaim">
+                            <a target="_blank" href="https://en.gravatar.com/linhntaim">
                                 <i class="fa fa-vcard-o"></i> Gravatar
                             </a>
                         </li>
@@ -770,7 +760,7 @@
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 <script src="<?php echo url('rythm.js'); ?>"></script>
 <script>
     var VARS = {
