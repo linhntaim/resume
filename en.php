@@ -229,6 +229,7 @@
                             <li>Desktop/mobile with C++, C#, Java, Swift, Kotlin.</li>
                             <li>Server-side with C#/VisualBasic/ASP.NET.</li>
                             <li>Server-side with PHP, using frameworks: Laravel (+Passport+Echo+Mix), Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
+                            <li>Server-side with Node.js, using frameworks: Express.</li>
                             <li>Client-side with HTML(5), CSS(3), Javascript, using frameworks: Bootstrap, jQuery, Sencha Ext JS, AngularJS, Angular, Vue.js, React, Prerender and Font libraries.</li>
                             <li>Flash/AIR with ActionScript3.</li>
                             <li>Real-time messaging/Notification with Socket.IO, Realtime.co, Firebase, APNs.</li>
@@ -329,7 +330,7 @@
                         <div class="h3"><em>As an Employee</em></div>
                         <ul>
                             <li>
-                                <h3>Antoree International Pte. Ltd. (Singapore) | 02.2017 - 10.2018</h3>
+                                <h3>Antoree International Pte. Ltd. (Singapore) | 02.2017 - 11.2018</h3>
                                 <ul>
                                     <li>
                                         <h4>System (Web & Mobile Platform) for managing company's end-users and customers' operations.</h4>
@@ -341,7 +342,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <h3>MITEC Joint Stock Company (Vietnam) | 2012 - 2015</h3>
+                                <h3>MITEC Joint Stock Company (Vietnam) | 10.2012 - 05.2015</h3>
                                 <ul>
                                     <li>
                                         <h4>e-Portal (both Internet &amp; Intranet) for the Vietnam Fatherland Front.</h4>

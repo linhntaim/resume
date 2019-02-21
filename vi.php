@@ -229,6 +229,7 @@
                             <li>Lập trình ứng dụng trên máy tính/di động với C++, C#, Java, Swift, Kotlin.</li>
                             <li>Lập trình phía server với C#/VisualBasic/ASP.NET.</li>
                             <li>Lập trình phía server với PHP, có thể sử dụng các framework: Laravel (+Passport+Echo+Mix), Wordpress, vTiger, Symfony, CodeIgniter, Kohana.</li>
+                            <li>Lập trình phía server với Node.js, có thể sử dụng các framework: Express.</li>
                             <li>Lập trình phía client HTML(5), CSS(3), Javascript, có thể sử dụng các framework: Bootstrap, jQuery, Sencha Ext JS, AngularJS, Angular, Vue.js, React và các thư viện Font.</li>
                             <li>Lập trình Flash/AIR với ActionScript3.</li>
                             <li>Lập trình gửi thông điệp thời gian thực/Lập trình gửi thông báo với Socket.IO, Realtime.co, Firebase, APNs.</li>
@@ -330,7 +331,7 @@
                         <div class="h3"><em>Với tư cách Nhân viên công ty</em></div>
                         <ul>
                             <li>
-                                <h3>Công ty Giáo dục và Đào tạo Antoree International Pte. Ltd. (Singapore) | 02.2017 - 10.2018</h3>
+                                <h3>Công ty Giáo dục và Đào tạo Antoree International Pte. Ltd. (Singapore) | 02.2017 - 11.2018</h3>
                                 <ul>
                                     <li>
                                         <h4>Hệ thống (nền tảng Web và Di động) để quản lý hoạt động của các thành viên cũng như khách hàng của công ty.</h4>
@@ -342,7 +343,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <h3>Công ty Cổ phần Ứng dụng Khoa học và Công nghệ MITEC (Việt Nam) | 2012 - 2015</h3>
+                                <h3>Công ty Cổ phần Ứng dụng Khoa học và Công nghệ MITEC (Việt Nam) | 10.2012 - 05.2015</h3>
                                 <ul>
                                     <li>
                                         <h4>Phát triển Cổng thông tin điện tử (Internet và Intranet) cho Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.</h4>
