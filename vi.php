@@ -337,7 +337,7 @@
                                         <h4>Hệ thống (nền tảng Web và Di động) để quản lý hoạt động của các thành viên cũng như khách hàng của công ty.</h4>
                                         <ul>
                                             <li>Vị trí: Technical Lead, Full-stack developer.</li>
-                                            <li>Kinh nghiệm/Kỹ năng: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, NGINX, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Redis, Selenium, HTML, CSS, Javascript, Mailgun, MailChimp; Lập trình ứng dụng di động trên nền tảng iOS (Swift) và Android (Kotlin).</li>
+                                            <li>Kinh nghiệm/Kỹ năng: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, NGINX, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySQL, Redis, Selenium, HTML, CSS, Javascript, Mailgun, MailChimp; Lập trình ứng dụng di động trên nền tảng iOS (Swift) và Android (Kotlin).</li>
                                         </ul>
                                     </li>
                                 </ul>

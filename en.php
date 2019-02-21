@@ -336,7 +336,7 @@
                                         <h4>System (Web & Mobile Platform) for managing company's end-users and customers' operations.</h4>
                                         <ul>
                                             <li>Position: Technical Lead, Full-stack developer.</li>
-                                            <li>Experience/Skills: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, NGINX, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySql, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp; Mobile application development on iOS platform (Swift) and Android platform (Kotlin).</li>
+                                            <li>Experience/Skills: Trello, Amazon Web Services, Ubuntu, Git(hub), Jenkins, NGINX, Angular, Vue.js, React, Prerender, PHP/Laravel(+Passport+Echo), Socket.IO, MySQL, Selenium, HTML, CSS, Javascript, Mailgun, Mailchimp; Mobile application development on iOS platform (Swift) and Android platform (Kotlin).</li>
                                         </ul>
                                     </li>
                                 </ul>
