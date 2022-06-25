@@ -162,12 +162,13 @@
                     </li>
                     <li class="clearfix">
                         <div class="text">
-                            Địa chỉ hiện tại 1:
+                            Địa chỉ hiện tại:
                         </div>
                         <div class="value">
                             Phòng 3, Lầu 1, Số 122/8, Đường Phổ Quang, Phường 9, Quận Phú Nhuận, Tp. Hồ Chí Minh, Việt Nam.
                         </div>
                     </li>
+                    <!--
                     <li class="clearfix">
                         <div class="text">
                             Địa chỉ hiện tại 2:
@@ -176,6 +177,7 @@
                             Số 207, Đường Võ Thị Sáu, Phường Tân Định, Quận 3, Tp. Hồ Chí Minh, Việt Nam.
                         </div>
                     </li>
+                    -->
                     <li class="clearfix">
                         <div class="text">
                             Thư điện tử:

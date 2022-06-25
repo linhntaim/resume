@@ -162,12 +162,13 @@
                     </li>
                     <li class="clearfix">
                         <div class="text">
-                            Current Address 1:
+                            Current Address:
                         </div>
                         <div class="value">
                             Room 3, 1st Floor, No. 122/8,  Pho Quang Street, Ward 9, Phu Nhuan District, Ho Chi Minh City, Vietnam.
                         </div>
                     </li>
+                    <!--
                     <li class="clearfix">
                         <div class="text">
                             Current Address 2:
@@ -176,6 +177,7 @@
                             No. 207, Vo Thi Sau Street, Tan Dinh Ward, District 3, Ho Chi Minh City, Vietnam.
                         </div>
                     </li>
+                    -->
                     <li class="clearfix">
                         <div class="text">
                             Email:
