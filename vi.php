@@ -4,6 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="google-site-verification" content="dGD8D1kPgCsDBuVqAWMEzf5UNqwMy5gpE5bJkKlDgw4">
+    <meta name="msvalidate.01" content="DDAE0CDFEA04128872AF6D0D252110AB">
+    <meta name="p:domain_verify" content="f8c0499afb2e5fefa12c3f0e20c4e442">
+    <meta name="yandex-verification" content="d22dbcacb0b41fae">
+    <meta name="facebook-domain-verification" content="w5ez9mwyzixc0fpzkd4ki2eq3tllxh">
     <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
